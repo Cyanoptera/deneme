@@ -3,7 +3,7 @@ layout: post
 title:  "Abdurrahim Balcıoğlu"
 categories: [ Mihrabad Yayınları, Abdurrahim Balcıoğlu, ]
 image: assets/images/md-image/yazarlar/abalcioglu.jpg
-featured: true
+myazar: true
 ---
 
 
